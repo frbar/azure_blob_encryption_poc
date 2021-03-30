@@ -1,0 +1,8 @@
+.vs
+.idea
+obj
+bin
+*.user
+*.pubxml
+profile.arm.json
+appsettings.Development.json
